@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Predictor</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='stylesheets/index.css')}}">
+</head>
+
+<body>
+    <div class="main">
+        <h1>Diamond Price Predictor</h1>
+        <form action="/predict" ,method='GET'>
+            <button type="submit" class="submit-btn">Predict Another</button>
+        </form>
+        <section class="result">
+            <h2>Predicted Diamond Price</h2>
+            <p>The estimated price of the diamond is: <strong>{{ final_result }}</strong></p>
+        </section>
+    </div>
+
+
+</body>
+
+</html>

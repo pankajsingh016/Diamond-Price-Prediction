@@ -13,7 +13,6 @@ def home_page():
     return render_template('index.html')
 
 @app.route('/predict',methods=['GET','POST'])
-
 def predict_datapoint():
     if request.method=='GET':
         return render_template('form.html')
@@ -36,7 +35,7 @@ def predict_datapoint():
 
         results=round(pred[0],2)
 
-        return render_template('form.html',final_result=results)
+        return render_template('final.html',final_result=results)
     
 
 if __name__=="__main__":

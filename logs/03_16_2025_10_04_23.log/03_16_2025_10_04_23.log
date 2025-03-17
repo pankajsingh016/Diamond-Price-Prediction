@@ -1,0 +1,38 @@
+[2025-03-16 10:04:24,469] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 10:04:24,483] 97 werkzeug - INFO -  * Debugger PIN: 451-919-175
+[2025-03-16 10:04:41,382] 66 root - INFO - Datafram Gathered
+[2025-03-16 10:04:41,510] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:04:41] "POST /predict HTTP/1.1" 200 -
+[2025-03-16 10:06:03,903] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:06:03] "GET / HTTP/1.1" 200 -
+[2025-03-16 10:07:10,146] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-03-16 10:07:10,198] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-03-16 10:07:10,240] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:10] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-03-16 10:07:10,713] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:10] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=KI8NVcgkdevwJGvlkmit HTTP/1.1" 200 -
+[2025-03-16 10:07:10,719] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2025-03-16 10:07:11,175] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:07:35,905] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-03-16 10:07:35,942] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:07:35,954] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 10:07:35,965] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:35] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-03-16 10:07:36,335] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=KI8NVcgkdevwJGvlkmit HTTP/1.1[0m" 304 -
+[2025-03-16 10:07:36,342] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:07:36,691] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:07:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:26,399] 66 root - INFO - Datafram Gathered
+[2025-03-16 10:09:26,423] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:26] "POST /predict HTTP/1.1" 200 -
+[2025-03-16 10:09:31,736] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-03-16 10:09:31,782] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:31,795] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:32,165] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=KI8NVcgkdevwJGvlkmit HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:32,170] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:36,373] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-03-16 10:09:36,419] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:36,424] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:36,785] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=KI8NVcgkdevwJGvlkmit HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:36,795] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:37,136] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:39,736] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-03-16 10:09:39,773] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:39,786] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:40,154] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=KI8NVcgkdevwJGvlkmit HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:40,160] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:40,478] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:09:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 10:09:56,383] 97 werkzeug - INFO -  * Detected change in 'd:\\git\\diamond price prediction\\application.py', reloading

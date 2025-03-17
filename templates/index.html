@@ -1,1 +1,48 @@
-<h1>Home Page</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Predictor</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='stylesheets/index.css')}}">
+</head>
+
+<body>
+    <div class="main">
+        <h1>Diamond Price Predictor</h1>
+        <form action="/predict" ,method='GET'>
+            <button type="submit" class="submit-btn">Let's Predict</button>
+        </form>
+    </div>
+
+    <div class="container">
+        <section>
+            <h2>About Diamond Price Prediction</h2>
+            <p>The Diamond Price Predictor is a tool that estimates the price of a diamond based on key attributes such as carat weight, cut quality, color grade, and clarity. This prediction helps jewelers, buyers, and sellers make informed decisions.</p>
+        </section>
+
+        <section>
+            <h2>How It Works</h2>
+            <ul>
+                <li><strong>Input:</strong> Enter diamond characteristics (e.g., carat, cut, clarity, color).</li>
+                <li><strong>Prediction:</strong> Our algorithm processes the data to provide an estimated price.</li>
+                <li><strong>Result:</strong> Get an accurate and real-time price estimation.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Why Use Our Predictor?</h2>
+            <p>✔️ Accurate pricing using advanced algorithms</p>
+            <p>✔️ Easy-to-use interface for quick predictions</p>
+            <p>✔️ Valuable insights for buyers and sellers</p>
+        </section>
+
+        <section>
+            <h2>Start Predicting Today!</h2>
+            <p>Enter the diamond details and receive an instant price estimate. Make smarter decisions with our advanced Diamond Price Predictor.</p>
+        </section>
+    </div>
+</body>
+
+</html>

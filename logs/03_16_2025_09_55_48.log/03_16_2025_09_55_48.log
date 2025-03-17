@@ -1,0 +1,16 @@
+[2025-03-16 09:55:51,179] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 09:55:51,228] 97 werkzeug - INFO -  * Debugger PIN: 451-919-175
+[2025-03-16 09:55:52,848] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:55:52] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 09:55:52,917] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:55:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2025-03-16 09:56:51,078] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:56:51] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 09:56:51,117] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:56:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+[2025-03-16 09:58:12,026] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:58:12] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 09:58:12,100] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 09:58:12] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+[2025-03-16 10:00:05,123] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:00:05] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 10:00:05,168] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:00:05] "[33mGET /static/stylesheets/style.css HTTP/1.1[0m" 404 -
+[2025-03-16 10:01:12,076] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:01:12] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 10:01:12,120] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:01:12] "GET /static/stylesheets/style.css HTTP/1.1" 200 -
+[2025-03-16 10:01:33,072] 66 root - INFO - Datafram Gathered
+[2025-03-16 10:01:33,346] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:01:33] "POST /predict HTTP/1.1" 200 -
+[2025-03-16 10:01:33,392] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:01:33] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:03:16,324] 97 werkzeug - INFO -  * Detected change in 'D:\\Git\\Diamond Price Prediction\\application.py', reloading

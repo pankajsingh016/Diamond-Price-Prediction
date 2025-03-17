@@ -1,0 +1,8 @@
+[2025-03-16 10:09:57,948] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 10:09:57,949] 97 werkzeug - INFO -  * Debugger PIN: 451-919-175
+[2025-03-16 10:12:44,008] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:12:44] "GET / HTTP/1.1" 200 -
+[2025-03-16 10:12:46,155] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:12:46] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 10:12:46,199] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:12:46] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-16 10:13:11,573] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:13:11] "GET / HTTP/1.1" 200 -
+[2025-03-16 10:13:13,854] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:13:13] "GET /predict HTTP/1.1" 200 -
+[2025-03-16 10:13:13,916] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 10:13:13] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
