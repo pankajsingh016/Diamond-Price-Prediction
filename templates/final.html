@@ -9,15 +9,17 @@
 </head>
 
 <body>
-    <div class="main">
-        <h1>Diamond Price Predictor</h1>
-        <form action="/predict" ,method='GET'>
-            <button type="submit" class="submit-btn">Predict Another</button>
-        </form>
+    <div class="main" style="background-color:whitesmoke; margin-top: 20px;">
         <section class="result">
             <h2>Predicted Diamond Price</h2>
             <p>The estimated price of the diamond is: <strong>{{ final_result }}</strong></p>
         </section>
+        <form action="/predict" ,method='GET'>
+            <button type="submit" class="submit-btn">Calculate Again</button>
+        </form>
+        <form action="/",method='GET'>
+            <button type="submit" class="submit-btn">Home Page</button>
+        </form>
     </div>
 
 

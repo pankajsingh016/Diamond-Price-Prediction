@@ -1,0 +1,65 @@
+[2025-03-18 09:35:36,575] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-18 09:35:36,589] 97 werkzeug - INFO -  * Debugger PIN: 451-919-175
+[2025-03-18 09:35:43,676] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:35:43] "GET /predict HTTP/1.1" 200 -
+[2025-03-18 09:35:43,731] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:35:43] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:35:46,715] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:35:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-03-18 09:35:49,995] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:35:49] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:35:50,021] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:35:50] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:36:49,405] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:36:49] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:36:49,465] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:36:49] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:36:54,686] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:36:54] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:36:54,725] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:36:54] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:37:54,062] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:37:54] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:37:54,116] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:37:54] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:44:26,447] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:44:26] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:44:26,507] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:44:26] "GET /static/stylesheets/index.css HTTP/1.1" 200 -
+[2025-03-18 09:44:37,361] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:44:37] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:44:37,395] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:44:37] "GET /static/stylesheets/index.css HTTP/1.1" 200 -
+[2025-03-18 09:45:05,707] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:05] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:45:05,738] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:05] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:45:24,070] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:24] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:45:24,107] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:24] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:45:38,870] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:38] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:45:38,903] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:38] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:45:54,165] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:54] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:45:54,205] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:45:54] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:46:07,316] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:46:07] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:46:15,309] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:46:15] "GET /predict HTTP/1.1" 200 -
+[2025-03-18 09:46:15,379] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:46:15] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:46:33,769] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:46:34,215] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:46:34] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:46:34,319] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:46:34] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:47:03,968] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:47:03,991] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:03] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:47:04,032] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:04] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:47:35,895] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:47:35,917] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:35] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:47:35,962] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:35] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:47:51,754] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:47:51,777] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:51] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:47:51,818] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:47:51] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:48:00,166] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:48:00,181] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:00] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:48:00,220] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:00] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:48:08,162] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:48:08,209] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:08] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:48:08,263] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:08] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:48:19,514] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:48:19,533] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:19] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:48:19,574] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:48:19] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:49:32,415] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:49:32,449] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:32] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:49:32,492] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:32] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:49:36,179] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:36] "GET / HTTP/1.1" 200 -
+[2025-03-18 09:49:36,237] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:36] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:49:39,572] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:39] "GET /predict HTTP/1.1" 200 -
+[2025-03-18 09:49:39,728] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:39] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:49:56,924] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:49:56,960] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:56] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:49:57,081] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:49:57] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:50:08,214] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:50:08,236] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:50:08] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:50:08,289] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:50:08] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 09:50:26,112] 66 root - INFO - Datafram Gathered
+[2025-03-18 09:50:26,133] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:50:26] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 09:50:26,179] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 09:50:26] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
