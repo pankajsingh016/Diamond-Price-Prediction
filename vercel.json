@@ -11,6 +11,5 @@
       "src": "/(.*)",
       "dest": "application.py"
     }
-  ],
-  "ignoreCommand": "echo 'Skipping files from .gitignore'"
+  ]
 }
