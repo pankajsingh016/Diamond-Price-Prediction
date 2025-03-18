@@ -1,14 +1,16 @@
 {
-    "builds": [
-        {
-            "src": "./application.py",
-            "use": "@vercel/python"
-        }
-    ],
-    "routes": [
-        {
-            "src": "/{.*}",
-            "dest": "application.py"
-        }
-    ]
+  "builds": [
+    {
+      "src": "application.py",
+      "use": "@vercel/python",
+      "config":{"runtime":"python3.8"}
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "application.py"
+    }
+  ],
+  "ignoreCommand": "echo 'Skipping files from .gitignore'"
 }
