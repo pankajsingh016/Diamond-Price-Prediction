@@ -1,0 +1,14 @@
+[2025-03-18 12:15:04,770] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+[2025-03-18 12:15:04,770] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-03-18 12:15:05,565] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:05] "GET / HTTP/1.1" 200 -
+[2025-03-18 12:15:05,727] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:05] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 12:15:09,255] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:09] "GET /predict HTTP/1.1" 200 -
+[2025-03-18 12:15:09,311] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:09] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -
+[2025-03-18 12:15:24,655] 66 root - INFO - Datafram Gathered
+[2025-03-18 12:15:26,377] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:26] "POST /predict HTTP/1.1" 200 -
+[2025-03-18 12:15:26,417] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:26] "[36mGET /static/stylesheets/index.css HTTP/1.1[0m" 304 -
+[2025-03-18 12:15:30,572] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:30] "GET /predict HTTP/1.1" 200 -
+[2025-03-18 12:15:30,607] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 12:15:30] "[36mGET /static/stylesheets/style.css HTTP/1.1[0m" 304 -

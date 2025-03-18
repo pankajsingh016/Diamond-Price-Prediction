@@ -1,5 +1,7 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: DiamondPricePrediction
 Version: 0.0.1
 Author: Pankaj
 Author-email: pankajsinghkanyal016@gmail.com
+Dynamic: author
+Dynamic: author-email
