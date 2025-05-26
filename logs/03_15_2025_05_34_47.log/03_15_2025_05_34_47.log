@@ -1,3 +1,0 @@
-[2025-03-15 05:34:48,187] 26 root - INFO - Data Ingestion method starts
-[2025-03-15 05:34:48,336] 30 root - INFO - Data Read as pandas DataFrame
-[2025-03-15 05:34:48,336] 48 root - INFO - Error occured in Data Ingestion Config
