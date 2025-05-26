@@ -51,5 +51,5 @@ def load_objects(file_path):
             return pickle.load(file_obj)
         
     except Exception as e:
-        logging.info('Exception Occured in load objects function utils')
+        # logging.info('Exception Occured in load objects function utils')
         raise CustomException(e,sys)

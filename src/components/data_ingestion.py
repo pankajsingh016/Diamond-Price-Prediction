@@ -23,21 +23,21 @@ class DataIngestion:
         self.ingestion_config = DataIngestionConfig()
     
     def initiate_data_ingestion(self):
-        # logging.info('Data Ingestion method starts')
+        logging.info('Data Ingestion method starts')
 
         try:
             df = pd.read_csv(os.path.join('notebook/data','gemstone.csv'))
-            # logging.info('Data Read as pandas DataFrame')
+            logging.info('Data Read as pandas DataFrame')
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path),exist_ok=True)
             df.to_csv(self.ingestion_config.raw_data_path, index=False)
 
-            # logging.info("Train test split")
+            logging.info("Train test split")
             train_set,test_set = train_test_split(df,test_size=0.30, random_state=42)
 
             train_set.to_csv(self.ingestion_config.train_data_path,index=False, header=True)
             test_set.to_csv(self.ingestion_config.test_data_path,index=False, header=True)
 
-            # logging.info('Ingestion of Data is Completed.')
+            logging.info('Ingestion of Data is Completed.')
 
             return (
                 self.ingestion_config.train_data_path,
@@ -45,7 +45,7 @@ class DataIngestion:
             )
         
         except Exception as e:
-            # logging.info('Error occured in Data Ingestion Config')
+            logging.info('Error occured in Data Ingestion Config')
             raise CustomException(e,sys)
         
 
